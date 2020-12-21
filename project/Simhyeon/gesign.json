@@ -1,0 +1,20 @@
+{
+    "path": "Simhyeon/gesign",
+    "serviceUrl": "https://github.com/Simhyeon/gesign",
+    "opensource": {
+        "url": "https://github.com/Simhyeon/gesign"
+    },
+    "thumbnailUrl": "https://raw.githubusercontent.com/Simhyeon/gesign/master/img/icon.png",
+    "title": "Gesign - Game design document editor",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Gesign is composed of two parts. Gesign editor and gdml format.",
+            "",
+            "Gesign editor is an electron application that enables easy editing of gdml file. Gesign is made of pure javascript and several modules including ToastUIEditor. Editor reads files from given directory and check if references(dependencies) are all resovled or not. It is easily distinguishable by color so that user can identify which documents are outdatd or up-to-date, and also check referring document's status.",
+            "",
+            "Gdml format is just a yaml file with predefined tags. Gdml format consists of meta information and markdown content as a body."
+        ]
+    },
+    "tags": "Gesign, gdml, markdown, ToastUIEditor"
+}

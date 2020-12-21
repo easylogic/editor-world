@@ -1,0 +1,20 @@
+{
+    "path": "q.uiver.app/quiver",
+    "serviceUrl": "https://q.uiver.app/",
+    "opensource": {
+        "url": "https://github.com/varkor/quiver",
+        "licenseUrl": "https://github.com/varkor/quiver/blob/master/LICENSE",
+        "license": "MIT License",
+        "copyright": "2018 varkor"
+    },
+    "thumbnailUrl": "https://q.uiver.app/icon.png",
+    "title": "quiver",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "quiver is a modern, graphical editor for commutative and pasting diagrams, capable of rendering high-quality diagrams for screen viewing, and exporting to LaTeX via tikz-cd.",
+            "Creating and modifying diagrams with quiver is orders of magnitude faster than writing the equivalent LaTeX by hand and, with a little experience, competes with pen-and-paper."
+        ]
+    },
+    "tags": "quiver, Diagram, Latex, tikz-cd"
+}

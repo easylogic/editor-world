@@ -1,0 +1,22 @@
+{
+    "path": "phpagebuilder.com/phpagebuilder",
+    "serviceUrl": "https://www.phpagebuilder.com/",
+    "opensource": {
+        "url": "https://github.com/HansSchouten/PHPagebuilder",
+        "licenseUrl": "https://github.com/HansSchouten/PHPageBuilder/blob/master/LICENSE",
+        "license": "MIT License",
+        "copyright": "2019 Hans Schouten"
+    },
+    "thumbnailUrl": "https://www.phpagebuilder.com/themes/saasland/img/screenshot.png",
+    "title": "PHP Page Builder | Add a page builder to your PHP project ",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "PHPagebuilder can be used as an ultra lightweight CMS to quickly spin up new websites, ",
+            "or can be integrated into existing projects or your favorite frameworks (such as this version for Laravel). ",
+            "The server-side code does not depend on any other libraries and is blazing fast. ",
+            "It includes an optional website manager with a Bootstrap UI and integrates the most popular open source drag and drop pagebuilder: GrapesJS. This package is made with customization in mind, allowing you to configure, disable or replace any of its modules."
+        ]
+    },
+    "tags": "PHP, Bootstrap, GrapeJS"
+}

@@ -1,0 +1,18 @@
+{
+    "path": "pixelied.com/pixelied",
+    "serviceUrl": "https://pixelied.com/",
+    "editorUrl": "https://pixelied.com/editor",
+    "thumbnailUrl": "https://pixelied.com/assets/img/og-image-v2.jpg",
+    "images": [
+        "https://pixelied.com/assets/img/og-image-v2.jpg"
+    ],
+    "title": "Pixelied - Free Design Suite For Startups, E-commerce And Marketers",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Get free, beautiful designs for marketing, content, e-commerce and social media in seconds. 1-click background remover, 4m+ stock photos, illustrations and icons."
+        ]
+    },
+    "loginType": "facebook, email",
+    "tags": "design"
+}

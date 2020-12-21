@@ -1,0 +1,17 @@
+{
+    "path": "spline.design/spline",
+    "serviceUrl": "https://spline.design/",
+    "downloadUrl": "https://spline.design/#download",
+    "thumbnailUrl": "https://spline.design/_assets/_images/spline_image_banner.png",
+    "title": "Spline - Design tool for 3D web experiences",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Create web-based 3D experiences"
+        ]
+    },
+    "support": {
+        "os": "mac, windows, linux"
+    },
+    "tags": "Three.js, WebGL"
+}

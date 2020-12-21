@@ -1,0 +1,22 @@
+{
+    "path": "wix-incubator/rich-content",
+    "serviceUrl": "https://rich-content-8-9-0.surge.sh/#!!",
+    "opensource": {
+        "url": "https://github.com/wix-incubator/rich-content",
+        "licenseUrl": "https://github.com/wix-incubator/rich-content/blob/master/LICENSE",
+        "license": "MIT License",
+        "copyright": "2020 Wix"
+    },
+    "thumbnailUrl": "https://github.com/wix-incubator/rich-content/blob/master/logo.png",
+    "images": [
+        "https://github.com/wix-incubator/rich-content/raw/master/ricos.gif"
+    ],
+    "title": "RICOS",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "A React-based, supercharged rich content editor with an extensible plugin system"
+        ]
+    },
+    "tags": "wix,rich,content,ricos,block,editor,content"
+}

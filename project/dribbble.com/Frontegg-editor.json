@@ -1,0 +1,14 @@
+{
+    "path": "dribbble.com/Frontegg-editor",
+    "serviceUrl": "https://dribbble.com/shots/13912307-Frontegg-editor",
+    "editorUrl": "https://dribbble.com/shots/13912307-Frontegg-editor",
+    "thumbnailUrl": "https://marvelapp.com/static/00-hero-new@2x-f6a65160e5b1177c269e9e1b7e0cf7d2-c7109.jpg",
+    "title": "Frontegg editor",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Frontegg is a platform for SaaS companies, offering out-of-the-box Enterprise-Readiness products for very quick integration as features into an existing SaaS web application. Frontegg components are all customer-facing and include the UI, backend, and Data layers. The feature-set includes Granular Roles & Permissions, SAML and SSO, Audit logs, Reports, Notification center, and more. The integration of a feature is very quick and shouldn't take more than a few hours of work from a full stack developer."
+        ]
+    },
+    "design": true 
+}

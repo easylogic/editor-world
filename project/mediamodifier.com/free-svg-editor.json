@@ -1,0 +1,16 @@
+{
+    "path": "mediamodifier.com/free-svg-editor",
+    "serviceUrl": "https://mediamodifier.com/",
+    "editorUrl": "https://mediamodifier.com/design",
+    "thumbnailUrl": "https://mediamodifier.com/blog/wp-content/uploads/2020/05/free-svg-vector-online-editor.jpg",
+    "title": "Free SVG Online Editor",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Quickly edit SVG vector files online with our free design tool.",
+            "Skip Illustrator - drag and drop your svg, modify and download as SVG, JPG, PDF or PNG."
+        ]
+    },
+    "loginType": "google, facebook, email",
+    "tags": "free,vector,jquery,fabric.js,svg,jpg,pdf,png,konvajs"
+}

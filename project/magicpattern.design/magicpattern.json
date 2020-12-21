@@ -1,0 +1,14 @@
+{
+    "path": "magicpattern.design/magicpattern",
+    "serviceUrl": "https://www.magicpattern.design/",
+    "editorUrl": "https://www.magicpattern.design/dashboard/editor",
+    "thumbnailUrl": "https://storage.googleapis.com/brandflow-bucket/personal/blog/magicpattern-og-image.jpg",
+    "title": "MagicPattern • Beautiful SVG pattern backgrounds",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "MagicPattern offers a generator for unique geometric SVG background patterns to brand your landing page, website, and social media posts."
+        ]
+    },
+    "loginType": "google,email"
+}

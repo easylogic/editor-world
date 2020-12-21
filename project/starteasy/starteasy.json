@@ -1,0 +1,17 @@
+{
+    "path": "starteasy/starteasy",
+    "serviceUrl": "http://www.starteasy.co.kr/",
+    "thumbnailUrl": "http://www.starteasy.co.kr/img/editorbased01.png",
+    "images": [
+        "http://www.starteasy.co.kr/img/editorbased01.png"
+    ],
+    "title": "스타트이지 다이어그램 통합 에디터",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "우리는 스마트 팩토리에 필요한 웹 다이어그램을 만드는데 쉬운 방법을 필요로 합니다.가장 쉬운 방법은 위지윅 에디터를 이용하는 방법입니다.",
+            "컴포넌트 기반"
+        ]
+    },
+    "tags": "hmi,data,flow,diagram,"
+}

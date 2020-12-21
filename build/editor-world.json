@@ -1,0 +1,197 @@
+[
+    {
+        "path": "Simhyeon/gesign",
+        "serviceUrl": "https://github.com/Simhyeon/gesign",
+        "opensource": {
+            "url": "https://github.com/Simhyeon/gesign"
+        },
+        "thumbnailUrl": "https://raw.githubusercontent.com/Simhyeon/gesign/master/img/icon.png",
+        "title": "Gesign - Game design document editor",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Gesign is composed of two parts. Gesign editor and gdml format.",
+                "",
+                "Gesign editor is an electron application that enables easy editing of gdml file. Gesign is made of pure javascript and several modules including ToastUIEditor. Editor reads files from given directory and check if references(dependencies) are all resovled or not. It is easily distinguishable by color so that user can identify which documents are outdatd or up-to-date, and also check referring document's status.",
+                "",
+                "Gdml format is just a yaml file with predefined tags. Gdml format consists of meta information and markdown content as a body."
+            ]
+        },
+        "tags": "Gesign, gdml, markdown, ToastUIEditor"
+    },
+    {
+        "path": "dribbble.com/Frontegg-editor",
+        "serviceUrl": "https://dribbble.com/shots/13912307-Frontegg-editor",
+        "editorUrl": "https://dribbble.com/shots/13912307-Frontegg-editor",
+        "thumbnailUrl": "https://marvelapp.com/static/00-hero-new@2x-f6a65160e5b1177c269e9e1b7e0cf7d2-c7109.jpg",
+        "title": "Frontegg editor",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Frontegg is a platform for SaaS companies, offering out-of-the-box Enterprise-Readiness products for very quick integration as features into an existing SaaS web application. Frontegg components are all customer-facing and include the UI, backend, and Data layers. The feature-set includes Granular Roles & Permissions, SAML and SSO, Audit logs, Reports, Notification center, and more. The integration of a feature is very quick and shouldn't take more than a few hours of work from a full stack developer."
+            ]
+        },
+        "design": true
+    },
+    {
+        "path": "magicpattern.design/magicpattern",
+        "serviceUrl": "https://www.magicpattern.design/",
+        "editorUrl": "https://www.magicpattern.design/dashboard/editor",
+        "thumbnailUrl": "https://storage.googleapis.com/brandflow-bucket/personal/blog/magicpattern-og-image.jpg",
+        "title": "MagicPattern • Beautiful SVG pattern backgrounds",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "MagicPattern offers a generator for unique geometric SVG background patterns to brand your landing page, website, and social media posts."
+            ]
+        },
+        "loginType": "google,email"
+    },
+    {
+        "path": "marvelapp.com/marvel",
+        "serviceUrl": "https://marvelapp.com/",
+        "editorUrl": "https://marvelapp.com/projects/my",
+        "thumbnailUrl": "https://marvelapp.com/static/00-hero-new@2x-f6a65160e5b1177c269e9e1b7e0cf7d2-c7109.jpg",
+        "title": "Marvel - The design platform for digital products. Get started for free.",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "The collaborative design platform. Wireframe, prototype, user test, design and inspect designs in one place, for free! Or create an integration with our API."
+            ]
+        },
+        "loginType": "google, email",
+        "tags": "prototype, prototyping, design online, wireframe, design platform, designer specs, api, api integration, design platform, online collaboration tools, collaboration tools, design thinking, mockup tool, product design"
+    },
+    {
+        "path": "mediamodifier.com/free-svg-editor",
+        "serviceUrl": "https://mediamodifier.com/",
+        "editorUrl": "https://mediamodifier.com/design",
+        "thumbnailUrl": "https://mediamodifier.com/blog/wp-content/uploads/2020/05/free-svg-vector-online-editor.jpg",
+        "title": "Free SVG Online Editor",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Quickly edit SVG vector files online with our free design tool.",
+                "Skip Illustrator - drag and drop your svg, modify and download as SVG, JPG, PDF or PNG."
+            ]
+        },
+        "loginType": "google, facebook, email",
+        "tags": "free,vector,jquery,fabric.js,svg,jpg,pdf,png,konvajs"
+    },
+    {
+        "path": "phpagebuilder.com/phpagebuilder",
+        "serviceUrl": "https://www.phpagebuilder.com/",
+        "opensource": {
+            "url": "https://github.com/HansSchouten/PHPagebuilder",
+            "licenseUrl": "https://github.com/HansSchouten/PHPageBuilder/blob/master/LICENSE",
+            "license": "MIT License",
+            "copyright": "2019 Hans Schouten"
+        },
+        "thumbnailUrl": "https://www.phpagebuilder.com/themes/saasland/img/screenshot.png",
+        "title": "PHP Page Builder | Add a page builder to your PHP project ",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "PHPagebuilder can be used as an ultra lightweight CMS to quickly spin up new websites, ",
+                "or can be integrated into existing projects or your favorite frameworks (such as this version for Laravel). ",
+                "The server-side code does not depend on any other libraries and is blazing fast. ",
+                "It includes an optional website manager with a Bootstrap UI and integrates the most popular open source drag and drop pagebuilder: GrapesJS. This package is made with customization in mind, allowing you to configure, disable or replace any of its modules."
+            ]
+        },
+        "tags": "PHP, Bootstrap, GrapeJS"
+    },
+    {
+        "path": "pixelied.com/pixelied",
+        "serviceUrl": "https://pixelied.com/",
+        "editorUrl": "https://pixelied.com/editor",
+        "thumbnailUrl": "https://pixelied.com/assets/img/og-image-v2.jpg",
+        "images": [
+            "https://pixelied.com/assets/img/og-image-v2.jpg"
+        ],
+        "title": "Pixelied - Free Design Suite For Startups, E-commerce And Marketers",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Get free, beautiful designs for marketing, content, e-commerce and social media in seconds. 1-click background remover, 4m+ stock photos, illustrations and icons."
+            ]
+        },
+        "loginType": "facebook, email",
+        "tags": "design"
+    },
+    {
+        "path": "q.uiver.app/quiver",
+        "serviceUrl": "https://q.uiver.app/",
+        "opensource": {
+            "url": "https://github.com/varkor/quiver",
+            "licenseUrl": "https://github.com/varkor/quiver/blob/master/LICENSE",
+            "license": "MIT License",
+            "copyright": "2018 varkor"
+        },
+        "thumbnailUrl": "https://q.uiver.app/icon.png",
+        "title": "quiver",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "quiver is a modern, graphical editor for commutative and pasting diagrams, capable of rendering high-quality diagrams for screen viewing, and exporting to LaTeX via tikz-cd.",
+                "Creating and modifying diagrams with quiver is orders of magnitude faster than writing the equivalent LaTeX by hand and, with a little experience, competes with pen-and-paper."
+            ]
+        },
+        "tags": "quiver, Diagram, Latex, tikz-cd"
+    },
+    {
+        "path": "spline.design/spline",
+        "serviceUrl": "https://spline.design/",
+        "downloadUrl": "https://spline.design/#download",
+        "thumbnailUrl": "https://spline.design/_assets/_images/spline_image_banner.png",
+        "title": "Spline - Design tool for 3D web experiences",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Create web-based 3D experiences"
+            ]
+        },
+        "support": {
+            "os": "mac, windows, linux"
+        },
+        "tags": "Three.js, WebGL"
+    },
+    {
+        "path": "starteasy/starteasy",
+        "serviceUrl": "http://www.starteasy.co.kr/",
+        "thumbnailUrl": "http://www.starteasy.co.kr/img/editorbased01.png",
+        "images": [
+            "http://www.starteasy.co.kr/img/editorbased01.png"
+        ],
+        "title": "스타트이지 다이어그램 통합 에디터",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "우리는 스마트 팩토리에 필요한 웹 다이어그램을 만드는데 쉬운 방법을 필요로 합니다.가장 쉬운 방법은 위지윅 에디터를 이용하는 방법입니다.",
+                "컴포넌트 기반"
+            ]
+        },
+        "tags": "hmi,data,flow,diagram,"
+    },
+    {
+        "path": "wix-incubator/rich-content",
+        "serviceUrl": "https://rich-content-8-9-0.surge.sh/#!!",
+        "opensource": {
+            "url": "https://github.com/wix-incubator/rich-content",
+            "licenseUrl": "https://github.com/wix-incubator/rich-content/blob/master/LICENSE",
+            "license": "MIT License",
+            "copyright": "2020 Wix"
+        },
+        "thumbnailUrl": "https://github.com/wix-incubator/rich-content/blob/master/logo.png",
+        "images": [
+            "https://github.com/wix-incubator/rich-content/raw/master/ricos.gif"
+        ],
+        "title": "RICOS",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "A React-based, supercharged rich content editor with an extensible plugin system"
+            ]
+        },
+        "tags": "wix,rich,content,ricos,block,editor,content"
+    }
+]
