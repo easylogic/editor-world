@@ -1,0 +1,15 @@
+{
+    "path": "relate.app/relate",
+    "serviceUrl": "https://relate.app/",
+    "editorUrl": "https://relate.app/signup",
+    "thumbnailUrl": "https://relate.app/images/fb.png",
+    "title": "Relate - The open platform to create for the web",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Create digital experiences.",
+            "while running  10x faster and enjoy the process"
+        ]
+    },
+    "tags": "web,design"
+}

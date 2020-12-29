@@ -1,0 +1,22 @@
+{
+    "path": "passiomatic/elm-designer",
+    "serviceUrl": "https://github.com/passiomatic/elm-designer",
+    "opensource": {
+        "url": "https://github.com/passiomatic/elm-designer",
+        "licenseUrl": "https://github.com/passiomatic/elm-designer/blob/master/LICENSE",
+        "license": "BSD 3-Clause License",
+        "copyright": "Copyright (c) 2019, Andrea Peltrin"
+    },
+    "thumbnailUrl": "https://github.com/passiomatic/elm-designer/raw/master/assets/screenshot.jpg",
+    "title": "Elm Designer—A code generator for Elm UI",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "The application is in early stages of development and supports a subset of Elm UI.",
+            "Create and transform simple designs into Elm code",
+            "Auto-save designs into browser localStorage",
+            "Cover Elm UI row, column, textColumn layout primitives and most of the form widgets; support padding and spacing; allow fonts formatting with native and external web fonts (thanks to Google Fonts)"
+        ]
+    }, 
+    "tags": "elm, electron, designer"
+}

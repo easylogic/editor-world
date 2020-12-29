@@ -1,0 +1,17 @@
+{
+    "path": "sketch.io/sketch",
+    "serviceUrl": "https://sketch.io/",
+    "thumbnailUrl": "https://sketch.io/media/slideshow/sketchpad-desktop-flowers--914x600px@2x.webp",
+    "title": "Sketch.IO - SketchPad",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Whether you’re working on a school poster or brainstorming your next comic book character, ",
+            "Sketchpad makes it easy to bring your ideas to life. ",
+            "Easily draw, edit photos, or design your next business card. ",
+            "Craft images for social media posts, digital ads, paper, or even apparel. ",
+            "Make a quick photo edit with the drag and drop feature, or lose yourself for hours in Sketchpad’s streamlined digital makerspace."
+        ]
+    },
+    "tags": "sketch.io,svg"
+}

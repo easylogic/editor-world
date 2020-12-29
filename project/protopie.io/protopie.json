@@ -1,0 +1,15 @@
+{
+    "path": "protopie.io/protopie",
+    "serviceUrl": "https://www.protopie.io/",
+    "thumbnailUrl": "https://images.ctfassets.net/5pwbsaatpdfh/vYmCMCB1cRBLCVegWGlyh/b0c0f51a26f0f94b4402b1319a0e1b8f/protopie-og-image.png",
+    "title": "ProtoPie | The interactive digital prototyping tool",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "The future of prototyping is here.",
+            "ProtoPie makes it easier to build and collaborate on next-level interactive prototypes.",
+            "Breathe life into your ideas, today."
+        ]
+    },
+    "tags": "ProtoPie, prototyping tool, interactive prototypes, no-code design, intuitive prototyping"
+}

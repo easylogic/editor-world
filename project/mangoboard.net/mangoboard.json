@@ -1,0 +1,15 @@
+{
+    "path": "mangoboard.net/mangoboard",
+    "serviceUrl": "https://www.mangoboard.net/",
+    "editorUrl": "https://www.mangoboard.net/guest",
+    "thumbnailUrl": "http://www.mangoboard.net/og_img.jpg",
+    "title": "망고보드",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "디자인 제작 도구 망고보드 – 카드뉴스, 인포그래픽, 프레젠테이션, 포스터, 배너, 유튜브썸네일"
+        ]
+    },
+    "loginType": "google, facebook, naver, kakao, email",
+    "tags": "망고보드"
+}

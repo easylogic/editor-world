@@ -1,0 +1,19 @@
+{
+    "path": "summernote.org/summernote",
+    "serviceUrl": "https://summernote.org/",
+    "opensource": {
+        "url": "https://github.com/summernote/summernote",
+        "licenseUrl": "https://github.com/summernote/summernote/blob/develop/LICENSE",
+        "license": "MIT License",
+        "copyright": "Copyright (c) 2015~ Summernote Team (https://github.com/orgs/summernote/people)"
+    },
+    "thumbnailUrl": "https://summernote.org/img/icons/1200x630.pn",
+    "title": "summernote",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Super Simple WYSIWYG Editor on Bootstrap Summernote is a JavaScript library that helps you create WYSIWYG editors online."
+        ]
+    },
+    "tags": "summernote,WYSIWYG,editor,bootstrap,jquery"
+}

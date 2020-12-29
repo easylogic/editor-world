@@ -48,6 +48,21 @@
         "loginType": "google,email"
     },
     {
+        "path": "mangoboard.net/mangoboard",
+        "serviceUrl": "https://www.mangoboard.net/",
+        "editorUrl": "https://www.mangoboard.net/guest",
+        "thumbnailUrl": "http://www.mangoboard.net/og_img.jpg",
+        "title": "망고보드",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "디자인 제작 도구 망고보드 – 카드뉴스, 인포그래픽, 프레젠테이션, 포스터, 배너, 유튜브썸네일"
+            ]
+        },
+        "loginType": "google, facebook, naver, kakao, email",
+        "tags": "망고보드"
+    },
+    {
         "path": "marvelapp.com/marvel",
         "serviceUrl": "https://marvelapp.com/",
         "editorUrl": "https://marvelapp.com/projects/my",
@@ -77,6 +92,28 @@
         },
         "loginType": "google, facebook, email",
         "tags": "free,vector,jquery,fabric.js,svg,jpg,pdf,png,konvajs"
+    },
+    {
+        "path": "passiomatic/elm-designer",
+        "serviceUrl": "https://github.com/passiomatic/elm-designer",
+        "opensource": {
+            "url": "https://github.com/passiomatic/elm-designer",
+            "licenseUrl": "https://github.com/passiomatic/elm-designer/blob/master/LICENSE",
+            "license": "BSD 3-Clause License",
+            "copyright": "Copyright (c) 2019, Andrea Peltrin"
+        },
+        "thumbnailUrl": "https://github.com/passiomatic/elm-designer/raw/master/assets/screenshot.jpg",
+        "title": "Elm Designer—A code generator for Elm UI",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "The application is in early stages of development and supports a subset of Elm UI.",
+                "Create and transform simple designs into Elm code",
+                "Auto-save designs into browser localStorage",
+                "Cover Elm UI row, column, textColumn layout primitives and most of the form widgets; support padding and spacing; allow fonts formatting with native and external web fonts (thanks to Google Fonts)"
+            ]
+        },
+        "tags": "elm, electron, designer"
     },
     {
         "path": "phpagebuilder.com/phpagebuilder",
@@ -119,6 +156,21 @@
         "tags": "design"
     },
     {
+        "path": "protopie.io/protopie",
+        "serviceUrl": "https://www.protopie.io/",
+        "thumbnailUrl": "https://images.ctfassets.net/5pwbsaatpdfh/vYmCMCB1cRBLCVegWGlyh/b0c0f51a26f0f94b4402b1319a0e1b8f/protopie-og-image.png",
+        "title": "ProtoPie | The interactive digital prototyping tool",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "The future of prototyping is here.",
+                "ProtoPie makes it easier to build and collaborate on next-level interactive prototypes.",
+                "Breathe life into your ideas, today."
+            ]
+        },
+        "tags": "ProtoPie, prototyping tool, interactive prototypes, no-code design, intuitive prototyping"
+    },
+    {
         "path": "q.uiver.app/quiver",
         "serviceUrl": "https://q.uiver.app/",
         "opensource": {
@@ -137,6 +189,38 @@
             ]
         },
         "tags": "quiver, Diagram, Latex, tikz-cd"
+    },
+    {
+        "path": "relate.app/relate",
+        "serviceUrl": "https://relate.app/",
+        "editorUrl": "https://relate.app/signup",
+        "thumbnailUrl": "https://relate.app/images/fb.png",
+        "title": "Relate - The open platform to create for the web",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Create digital experiences.",
+                "while running  10x faster and enjoy the process"
+            ]
+        },
+        "tags": "web,design"
+    },
+    {
+        "path": "sketch.io/sketch",
+        "serviceUrl": "https://sketch.io/",
+        "thumbnailUrl": "https://sketch.io/media/slideshow/sketchpad-desktop-flowers--914x600px@2x.webp",
+        "title": "Sketch.IO - SketchPad",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Whether you’re working on a school poster or brainstorming your next comic book character, ",
+                "Sketchpad makes it easy to bring your ideas to life. ",
+                "Easily draw, edit photos, or design your next business card. ",
+                "Craft images for social media posts, digital ads, paper, or even apparel. ",
+                "Make a quick photo edit with the drag and drop feature, or lose yourself for hours in Sketchpad’s streamlined digital makerspace."
+            ]
+        },
+        "tags": "sketch.io,svg"
     },
     {
         "path": "spline.design/spline",
@@ -171,6 +255,25 @@
             ]
         },
         "tags": "hmi,data,flow,diagram,"
+    },
+    {
+        "path": "summernote.org/summernote",
+        "serviceUrl": "https://summernote.org/",
+        "opensource": {
+            "url": "https://github.com/summernote/summernote",
+            "licenseUrl": "https://github.com/summernote/summernote/blob/develop/LICENSE",
+            "license": "MIT License",
+            "copyright": "Copyright (c) 2015~ Summernote Team (https://github.com/orgs/summernote/people)"
+        },
+        "thumbnailUrl": "https://summernote.org/img/icons/1200x630.pn",
+        "title": "summernote",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Super Simple WYSIWYG Editor on Bootstrap Summernote is a JavaScript library that helps you create WYSIWYG editors online."
+            ]
+        },
+        "tags": "summernote,WYSIWYG,editor,bootstrap,jquery"
     },
     {
         "path": "wix-incubator/rich-content",
