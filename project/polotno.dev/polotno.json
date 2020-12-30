@@ -1,0 +1,14 @@
+{
+    "path": "polotno.dev/polotno",
+    "serviceUrl": "https://polotno.dev/",
+    "thumbnailUrl": "https://polotno.dev/img/screenshot.jpg",
+    "editorUrl": "https://studio.polotno.dev/",
+    "title": "Canvas Editor Framework Polotno | Polotno",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Polotno - Canvas Editor framework for JavaScript"
+        ]
+    },
+    "tags": "Canvas,Editor,framework"
+}

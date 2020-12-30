@@ -1,0 +1,14 @@
+{
+    "path": "vev.design/vev",
+    "serviceUrl": "https://www.vev.design/",
+    "thumbnailUrl": "https://cdn.vev.design/private/A6W66RZATuZIaG1CmlPbud1Hdwg1/images/Va_t88KRR/500.png",
+    "title": "Vev: Collaborative visual editor to build interactive websites",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "The new era of visual web design.",
+            "Vev is a collaborative visual editor for creatives to build interactive websites."
+        ]
+    },
+    "tags": "vev,design,collaborative,visual,editor,website"
+}

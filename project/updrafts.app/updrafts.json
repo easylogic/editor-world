@@ -1,0 +1,14 @@
+{
+    "path": "updrafts.app/updrafts",
+    "serviceUrl": "https://updrafts.app/",
+    "thumbnailUrl": "https://updrafts.app/social-image.png",
+    "editorUrl": "https://www.canva.com/design/DAERztSmshk/pm46HXuwF_XULLvvlXyFUA/edit",
+    "title": "Updrafts",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Design & Prototype with Tailwind CSS."
+        ]
+    },
+    "tags": "browser, development, webdevelopment, webdesign, tailwind css, nocode, prototype, mockups"
+}

@@ -1,0 +1,23 @@
+{
+    "path": "artf/grapejs",
+    "serviceUrl": "https://grapesjs.com/",
+    "opensource": {
+        "url": "https://github.com/artf/grapesjs",
+        "licenseUrl": "https://github.com/artf/grapesjs/blob/dev/LICENSE",
+        "license": "BSD 3-clause",
+        "copyright": "Copyright (c) 2017-current, Artur Arseniev"
+    },
+    "thumbnailUrl": "https://grapesjs.com/img/grapesjs-front-page-m.jpg",
+    "images": [
+        "https://grapesjs.com/img/grapesjs-front-page-m.jpg",
+        "https://grapesjs.com/img/sc-grapesjs-newsletter-demo.jpg"
+    ],
+    "title": "GrapesJS",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Free and Open source Web Template Editor - Next generation tool for building templates without coding"
+        ]
+    },
+    "tags": "site builder, web template editor, html builder, html editor"
+}

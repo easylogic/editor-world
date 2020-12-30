@@ -1,5 +1,38 @@
 [
     {
+        "path": "3rabbitz.com/3rabbitz",
+        "serviceUrl": "https://www.3rabbitz.com/r/home/book",
+        "thumbnailUrl": "https://www.3rabbitz.com/resource/image/home/book_banner.png?0097",
+        "editorUrl": "https://www.3rabbitz.com/r/try_online_demo/book",
+        "title": "북: 온라인 도움말, 매뉴얼, 문서 작성 소프트웨어 | 쓰리래빗츠",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "쓰리래빗츠 북은 협업이 가능한 온라인 도움말, 매뉴얼, 문서 작성 소프트웨어입니다."
+            ]
+        },
+        "tags": "도움말 작성, 매뉴얼 작성, 문서 작성, 단일 원천 출판, 싱글 소싱, 구조적 글쓰기, EPUB, PDF"
+    },
+    {
+        "path": "Alex-D/Trumbowyg",
+        "serviceUrl": "https://alex-d.github.io/Trumbowyg/",
+        "opensource": {
+            "url": "https://github.com/Alex-D/Trumbowyg",
+            "licenseUrl": "https://github.com/Alex-D/Trumbowyg/blob/develop/LICENSE",
+            "license": "MIT License",
+            "copyright": "Copyright (c) 2012-2016 Alexandre Demode (Alex-D)"
+        },
+        "thumbnailUrl": "https://alex-d.github.io/Trumbowyg/img/logo.svg",
+        "title": "Trumbowyg - A lightweight WYSIWYG editor by Alex-D / Alexandre Demode",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Trumbowyg is a very small jQuery plugin for creating a powerful WYSIWYG editor"
+            ]
+        },
+        "tags": "Trumbowyg,WYSIWYG,lightweight"
+    },
+    {
         "path": "Simhyeon/gesign",
         "serviceUrl": "https://github.com/Simhyeon/gesign",
         "opensource": {
@@ -20,6 +53,57 @@
         "tags": "Gesign, gdml, markdown, ToastUIEditor"
     },
     {
+        "path": "artf/grapejs",
+        "serviceUrl": "https://grapesjs.com/",
+        "opensource": {
+            "url": "https://github.com/artf/grapesjs",
+            "licenseUrl": "https://github.com/artf/grapesjs/blob/dev/LICENSE",
+            "license": "BSD 3-clause",
+            "copyright": "Copyright (c) 2017-current, Artur Arseniev"
+        },
+        "thumbnailUrl": "https://grapesjs.com/img/grapesjs-front-page-m.jpg",
+        "images": [
+            "https://grapesjs.com/img/grapesjs-front-page-m.jpg",
+            "https://grapesjs.com/img/sc-grapesjs-newsletter-demo.jpg"
+        ],
+        "title": "GrapesJS",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Free and Open source Web Template Editor - Next generation tool for building templates without coding"
+            ]
+        },
+        "tags": "site builder, web template editor, html builder, html editor"
+    },
+    {
+        "path": "beecanvas.com/beecanvas",
+        "serviceUrl": "https://beecanvas.com/home",
+        "editorUrl": "https://beecanvas.com/g/108779",
+        "thumbnailUrl": "https://bc-us-ea.s3-us-west-1.amazonaws.com/data/img/beecanvas-hero.jpg",
+        "title": "비캔버스 — 생각의 기록과 공유를 쉽고 빠르게",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "생각을 기록하고, 공유하고, 협업하세요. 위대한 성과를 내는데 필요한 모든 감각적인 기능들이 준비되어 있습니다."
+            ]
+        }
+    },
+    {
+        "path": "canva.com/canva",
+        "serviceUrl": "https://www.canva.com/",
+        "thumbnailUrl": "https://static.canva.com/static/images/fb_cover.png",
+        "editorUrl": "https://www.canva.com/design/DAERztSmshk/pm46HXuwF_XULLvvlXyFUA/edit",
+        "title": "Canva - Collaborate & Create Amazing Graphic Design for Free",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Create beautiful designs with your team. ",
+                "Use Canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more."
+            ]
+        },
+        "tags": "canva,design,editor"
+    },
+    {
         "path": "dribbble.com/Frontegg-editor",
         "serviceUrl": "https://dribbble.com/shots/13912307-Frontegg-editor",
         "editorUrl": "https://dribbble.com/shots/13912307-Frontegg-editor",
@@ -30,6 +114,18 @@
             "content": [
                 "Frontegg is a platform for SaaS companies, offering out-of-the-box Enterprise-Readiness products for very quick integration as features into an existing SaaS web application. Frontegg components are all customer-facing and include the UI, backend, and Data layers. The feature-set includes Granular Roles & Permissions, SAML and SSO, Audit logs, Reports, Notification center, and more. The integration of a feature is very quick and shouldn't take more than a few hours of work from a full stack developer."
             ]
+        },
+        "design": true
+    },
+    {
+        "path": "dribbble.com/Picture-editor",
+        "serviceUrl": "https://dribbble.com/shots/14205142-Picture-Editor",
+        "editorUrl": "https://dribbble.com/shots/14205142-Picture-Editor",
+        "thumbnailUrl": "https://dribbble.com/shots/14205142/attachments/5843131?mode=media",
+        "title": "Picture Editor",
+        "description": {
+            "contentType": "text",
+            "content": []
         },
         "design": true
     },
@@ -94,6 +190,20 @@
         "tags": "free,vector,jquery,fabric.js,svg,jpg,pdf,png,konvajs"
     },
     {
+        "path": "miricanvas.com/miricanvas",
+        "serviceUrl": "https://www.miricanvas.com/",
+        "editorUrl": "https://www.miricanvas.com/design",
+        "thumbnailUrl": "https://resource.miricanvas.com/image/bi/miricanvas_sq.png",
+        "title": "미리캔버스",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "저작권 걱정 없는 완전 무료 디자인툴 미리캔버스"
+            ]
+        },
+        "tags": "무료 디자인 템플릿, 온라인 디자인 툴, 미리캔버스, miricanvas, 저작권 무료"
+    },
+    {
         "path": "passiomatic/elm-designer",
         "serviceUrl": "https://github.com/passiomatic/elm-designer",
         "opensource": {
@@ -114,6 +224,24 @@
             ]
         },
         "tags": "elm, electron, designer"
+    },
+    {
+        "path": "penpot.app/penpot",
+        "serviceUrl": "https://penpot.app/#project",
+        "opensource": {
+            "url": "https://github.com/penpot/penpot",
+            "licenseUrl": "https://github.com/penpot/penpot/blob/develop/LICENSE",
+            "license": "Mozilla Public License 2.0"
+        },
+        "thumbnailUrl": "https://penpot.app/images/workspace-ui.png",
+        "title": "Penpot - Design Freedom for Teams",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "The open-source solution for design and prototyping."
+            ]
+        },
+        "tags": "opensource,design,prototyping"
     },
     {
         "path": "phpagebuilder.com/phpagebuilder",
@@ -138,6 +266,23 @@
         "tags": "PHP, Bootstrap, GrapeJS"
     },
     {
+        "path": "pitch.com/pitch",
+        "serviceUrl": "https://pitch.com/",
+        "editorUrl": "https://app.pitch.com/",
+        "thumbnailUrl": "https://res.cloudinary.com/pitch-software/image/upload/f_auto/v1602756963/share/Social_share_-_generic.jpg",
+        "images": [
+            "https://pixelied.com/assets/img/og-image-v2.jpg"
+        ],
+        "title": "Pitch 一 Collaborative presentation software for modern teams.",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Pitch is uncompromisingly good presentation software, enabling modern teams to craft and distribute beautiful presentations more effectively. Sign up for free."
+            ]
+        },
+        "tags": "pitch,web,presentation,collaborative"
+    },
+    {
         "path": "pixelied.com/pixelied",
         "serviceUrl": "https://pixelied.com/",
         "editorUrl": "https://pixelied.com/editor",
@@ -154,6 +299,20 @@
         },
         "loginType": "facebook, email",
         "tags": "design"
+    },
+    {
+        "path": "polotno.dev/polotno",
+        "serviceUrl": "https://polotno.dev/",
+        "thumbnailUrl": "https://polotno.dev/img/screenshot.jpg",
+        "editorUrl": "https://studio.polotno.dev/",
+        "title": "Canvas Editor Framework Polotno | Polotno",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Polotno - Canvas Editor framework for JavaScript"
+            ]
+        },
+        "tags": "Canvas,Editor,framework"
     },
     {
         "path": "protopie.io/protopie",
@@ -265,7 +424,7 @@
             "license": "MIT License",
             "copyright": "Copyright (c) 2015~ Summernote Team (https://github.com/orgs/summernote/people)"
         },
-        "thumbnailUrl": "https://summernote.org/img/icons/1200x630.pn",
+        "thumbnailUrl": "https://summernote.org/img/icons/1200x630.png",
         "title": "summernote",
         "description": {
             "contentType": "text",
@@ -274,6 +433,34 @@
             ]
         },
         "tags": "summernote,WYSIWYG,editor,bootstrap,jquery"
+    },
+    {
+        "path": "updrafts.app/updrafts",
+        "serviceUrl": "https://updrafts.app/",
+        "thumbnailUrl": "https://updrafts.app/social-image.png",
+        "editorUrl": "https://www.canva.com/design/DAERztSmshk/pm46HXuwF_XULLvvlXyFUA/edit",
+        "title": "Updrafts",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Design & Prototype with Tailwind CSS."
+            ]
+        },
+        "tags": "browser, development, webdevelopment, webdesign, tailwind css, nocode, prototype, mockups"
+    },
+    {
+        "path": "vev.design/vev",
+        "serviceUrl": "https://www.vev.design/",
+        "thumbnailUrl": "https://cdn.vev.design/private/A6W66RZATuZIaG1CmlPbud1Hdwg1/images/Va_t88KRR/500.png",
+        "title": "Vev: Collaborative visual editor to build interactive websites",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "The new era of visual web design.",
+                "Vev is a collaborative visual editor for creatives to build interactive websites."
+            ]
+        },
+        "tags": "vev,design,collaborative,visual,editor,website"
     },
     {
         "path": "wix-incubator/rich-content",

@@ -1,0 +1,13 @@
+{
+    "path": "beecanvas.com/beecanvas",
+    "serviceUrl": "https://beecanvas.com/home",
+    "editorUrl": "https://beecanvas.com/g/108779",
+    "thumbnailUrl": "https://bc-us-ea.s3-us-west-1.amazonaws.com/data/img/beecanvas-hero.jpg",
+    "title": "비캔버스 — 생각의 기록과 공유를 쉽고 빠르게",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "생각을 기록하고, 공유하고, 협업하세요. 위대한 성과를 내는데 필요한 모든 감각적인 기능들이 준비되어 있습니다."
+        ]
+    }
+}

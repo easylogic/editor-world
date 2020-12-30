@@ -1,0 +1,15 @@
+{
+    "path": "canva.com/canva",
+    "serviceUrl": "https://www.canva.com/",
+    "thumbnailUrl": "https://static.canva.com/static/images/fb_cover.png",
+    "editorUrl": "https://www.canva.com/design/DAERztSmshk/pm46HXuwF_XULLvvlXyFUA/edit",
+    "title": "Canva - Collaborate & Create Amazing Graphic Design for Free",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Create beautiful designs with your team. ",
+            "Use Canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations and more."
+        ]
+    },
+    "tags": "canva,design,editor"
+}

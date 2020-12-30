@@ -1,0 +1,19 @@
+{
+    "path": "Alex-D/Trumbowyg",
+    "serviceUrl": "https://alex-d.github.io/Trumbowyg/",
+    "opensource": {
+        "url": "https://github.com/Alex-D/Trumbowyg",
+        "licenseUrl": "https://github.com/Alex-D/Trumbowyg/blob/develop/LICENSE",
+        "license": "MIT License",
+        "copyright": "Copyright (c) 2012-2016 Alexandre Demode (Alex-D)"
+    },
+    "thumbnailUrl": "https://alex-d.github.io/Trumbowyg/img/logo.svg",
+    "title": "Trumbowyg - A lightweight WYSIWYG editor by Alex-D / Alexandre Demode",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Trumbowyg is a very small jQuery plugin for creating a powerful WYSIWYG editor"
+        ]
+    },
+    "tags": "Trumbowyg,WYSIWYG,lightweight"
+}

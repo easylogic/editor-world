@@ -1,0 +1,13 @@
+{
+    "path": "dribbble.com/Picture-editor",
+    "serviceUrl": "https://dribbble.com/shots/14205142-Picture-Editor",
+    "editorUrl": "https://dribbble.com/shots/14205142-Picture-Editor",
+    "thumbnailUrl": "https://dribbble.com/shots/14205142/attachments/5843131?mode=media",
+    "title": "Picture Editor",
+    "description": {
+        "contentType": "text", 
+        "content": [
+        ]
+    },
+    "design": true 
+}

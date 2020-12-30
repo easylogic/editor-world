@@ -1,0 +1,17 @@
+{
+    "path": "pitch.com/pitch",
+    "serviceUrl": "https://pitch.com/",
+    "editorUrl": "https://app.pitch.com/",
+    "thumbnailUrl": "https://res.cloudinary.com/pitch-software/image/upload/f_auto/v1602756963/share/Social_share_-_generic.jpg",
+    "images": [
+        "https://pixelied.com/assets/img/og-image-v2.jpg"
+    ],
+    "title": "Pitch 一 Collaborative presentation software for modern teams.",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Pitch is uncompromisingly good presentation software, enabling modern teams to craft and distribute beautiful presentations more effectively. Sign up for free."
+        ]
+    },
+    "tags": "pitch,web,presentation,collaborative"
+}

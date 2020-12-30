@@ -1,0 +1,14 @@
+{
+    "path": "3rabbitz.com/3rabbitz",
+    "serviceUrl": "https://www.3rabbitz.com/r/home/book",
+    "thumbnailUrl": "https://www.3rabbitz.com/resource/image/home/book_banner.png?0097",
+    "editorUrl": "https://www.3rabbitz.com/r/try_online_demo/book",
+    "title": "북: 온라인 도움말, 매뉴얼, 문서 작성 소프트웨어 | 쓰리래빗츠",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "쓰리래빗츠 북은 협업이 가능한 온라인 도움말, 매뉴얼, 문서 작성 소프트웨어입니다."
+        ]
+    },
+    "tags": "도움말 작성, 매뉴얼 작성, 문서 작성, 단일 원천 출판, 싱글 소싱, 구조적 글쓰기, EPUB, PDF"
+}

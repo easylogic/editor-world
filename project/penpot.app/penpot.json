@@ -1,0 +1,18 @@
+{
+    "path": "penpot.app/penpot",
+    "serviceUrl": "https://penpot.app/#project",
+    "opensource": {
+        "url": "https://github.com/penpot/penpot",
+        "licenseUrl": "https://github.com/penpot/penpot/blob/develop/LICENSE",
+        "license": "Mozilla Public License 2.0"
+    },
+    "thumbnailUrl": "https://penpot.app/images/workspace-ui.png",
+    "title": "Penpot - Design Freedom for Teams",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "The open-source solution for design and prototyping."
+        ]
+    },
+    "tags": "opensource,design,prototyping"
+}
