@@ -1,0 +1,14 @@
+{
+    "path": "froala.com/froala",
+    "serviceUrl": "https://froala.com/",
+    "thumbnailUrl": "https://froala.com/wp-content/uploads/elementor/thumbs/editor3-200bd8df4ea3ebcce7ba1dc503094491-olqrkd6qb2mjru39lo3stsdkey0nuzdb2119a6ow80.png",
+    "title": "Web Editing Software for Better Development and UX - Froala",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Froala builds web editing software for fast development with better developer and user experience.",
+            "Our HTML Editor is the building block for beautiful content."
+        ]
+    },
+    "tags": "froala,web,editor,html,css,javascript,web,content,block,user,experience"
+}

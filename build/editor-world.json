@@ -161,6 +161,35 @@
         "design": true
     },
     {
+        "path": "flux.ai/flux",
+        "serviceUrl": "https://flux.ai/",
+        "thumbnailUrl": "https://assets.website-files.com/5f1af4c2e67caae8e13187f1/6079deacad1e203cf5f08048_flux%20opengraph.jpg",
+        "title": "Flux | Where the world builds hardware",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Flux is where engineers shape the future of hardware, together. ",
+                "Contribute to the open-source community, manage your projects, ",
+                "review schematics like a pro, track issues, and features, power your workflows, and secure work before you commit it."
+            ]
+        },
+        "tags": "flux,engineer,shape,future,hardware,open-source,community,software,schematics,pro,issues,features,workflows,power,work,commit,secure"
+    },
+    {
+        "path": "froala.com/froala",
+        "serviceUrl": "https://froala.com/",
+        "thumbnailUrl": "https://froala.com/wp-content/uploads/elementor/thumbs/editor3-200bd8df4ea3ebcce7ba1dc503094491-olqrkd6qb2mjru39lo3stsdkey0nuzdb2119a6ow80.png",
+        "title": "Web Editing Software for Better Development and UX - Froala",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Froala builds web editing software for fast development with better developer and user experience.",
+                "Our HTML Editor is the building block for beautiful content."
+            ]
+        },
+        "tags": "froala,web,editor,html,css,javascript,web,content,block,user,experience"
+    },
+    {
         "path": "gra.dient.art/gra.dient.art",
         "serviceUrl": "https://gra.dient.art/",
         "thumbnailUrl": "https://gra.dient.art/_next/image?url=%2Ffavicon.png&w=96&q=75",
@@ -410,6 +439,19 @@
         "tags": "quiver, Diagram, Latex, tikz-cd"
     },
     {
+        "path": "rayon.so/rayon",
+        "serviceUrl": "https://rayon.so/",
+        "thumbnailUrl": "https://uploads-ssl.webflow.com/5fd4a155c620982aaba91f6c/615d4f0a09b8659c1e07054b_SEO%20Image_3%203.jpg",
+        "title": "rayon | Collaborative Space Design at Scale.",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Built for Speed. Designed for Teams."
+            ]
+        },
+        "tags": "rayon,collaborative,space,design,at,scale,built,speed,designed,teams"
+    },
+    {
         "path": "relate.app/relate",
         "serviceUrl": "https://relate.app/",
         "editorUrl": "https://relate.app/signup",
@@ -455,6 +497,19 @@
             ]
         },
         "tags": "sketch.io,svg"
+    },
+    {
+        "path": "skivvr.com/skivvr",
+        "serviceUrl": "https://skivvr.com/",
+        "thumbnailUrl": "https://uploads-ssl.webflow.com/5fd4a155c620982aaba91f6c/615d4f0a09b8659c1e07054b_SEO%20Image_3%203.jpg",
+        "title": "Skivvr — No code platform",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "A realtime collaborative no-code web application creation platform."
+            ]
+        },
+        "tags": "Skivvr,realtime,collaborative,no-code,web,application,creation,platform"
     },
     {
         "path": "spline.design/spline",
