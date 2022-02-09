@@ -12,9 +12,13 @@
     "type": "git",
     "url": "git+https://github.com/easylogic/editor-world.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "editor",
+    "world",
+    "skill"
+  ],
+  "author": "easylogic",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/easylogic/editor-world/issues"
   },
