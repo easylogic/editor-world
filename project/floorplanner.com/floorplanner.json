@@ -1,0 +1,15 @@
+{
+    "path": "floorplanner.com/floorplanner",
+    "serviceUrl": "https://floorplanner.com/",
+    "thumbnailUrl": "https://images.wondershare.com/mockitt/wondershare-mockitt-brand.jpg",
+    "editorUrl": "https://floorplanner.com/demo",
+    "title": "floorplanner - 2D & 3D floorplans fast and easy!",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Floorplanner is the easiest way to create floor plans. ",
+            "Using our free online editor you can make 2D blueprints and 3D (interior) images within minutes."
+        ]
+    },
+    "tags": "floorplanner,create,plans,online,editor,2d,3d,blueprints,interior,images,fast,easy"
+}

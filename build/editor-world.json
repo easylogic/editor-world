@@ -223,6 +223,21 @@
         "tags": "ezytal, next-generation, ERP, Mobile app, Website design, Online store, cloud solutions"
     },
     {
+        "path": "floorplanner.com/floorplanner",
+        "serviceUrl": "https://floorplanner.com/",
+        "thumbnailUrl": "https://images.wondershare.com/mockitt/wondershare-mockitt-brand.jpg",
+        "editorUrl": "https://floorplanner.com/demo",
+        "title": "floorplanner - 2D & 3D floorplans fast and easy!",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Floorplanner is the easiest way to create floor plans. ",
+                "Using our free online editor you can make 2D blueprints and 3D (interior) images within minutes."
+            ]
+        },
+        "tags": "floorplanner,create,plans,online,editor,2d,3d,blueprints,interior,images,fast,easy"
+    },
+    {
         "path": "flux.ai/flux",
         "serviceUrl": "https://flux.ai/",
         "thumbnailUrl": "https://assets.website-files.com/5f1af4c2e67caae8e13187f1/6079deacad1e203cf5f08048_flux%20opengraph.jpg",
@@ -930,20 +945,6 @@
         "tags": "venngage,infograph,maker,create,free,amazing,templates"
     },
     {
-        "path": "venngage.com/venngage",
-        "serviceUrl": "https://venngage.com/",
-        "thumbnailUrl": "https://venngage.com/assets/img/v2/how-to-1.png",
-        "editorUrl": "https://infograph.venngage.com/register?vap=infographic-maker-lp&features=infographic-maker",
-        "title": "Venngage Infographic Maker - Create A Free Infographic Now",
-        "description": {
-            "contentType": "text",
-            "content": [
-                "Create an amazing infographic with Venngage's Infographic Maker & 100s of infographic templates."
-            ]
-        },
-        "tags": "venngage,infograph,maker,create,free,amazing,templates"
-    },
-    {
         "path": "vev.design/vev",
         "serviceUrl": "https://www.vev.design/",
         "thumbnailUrl": "https://cdn.vev.design/private/A6W66RZATuZIaG1CmlPbud1Hdwg1/images/Va_t88KRR/500.png",
@@ -977,6 +978,25 @@
         "tags": "vuerd,erd,entity,relationship,diagram,editor"
     },
     {
+        "path": "vvveb.com/vvveb",
+        "serviceUrl": "https://vvveb.com/",
+        "thumbnailUrl": "https://venngage.com/assets/img/v2/how-to-1.png",
+        "editorUrl": "https://demo.vvveb.com/admin/?module=/editor/editor&template=index.html&url=/",
+        "opensource": {
+            "url": "https://github.com/givanz/VvvebJs",
+            "licenseUrl": "https://github.com/givanz/VvvebJs/blob/master/LICENSE",
+            "license": " Apache License Version 2.0, January 2004"
+        },
+        "title": "Vvveb CMS",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Powerful and easy to use software to build professional websites, blogs or ecommerce stores."
+            ]
+        },
+        "tags": "cms, page builder, drag and drop, ecommerce, ecommerce platform, designer, developer, php, bootstrap 4"
+    },
+    {
         "path": "wix-incubator/rich-content",
         "serviceUrl": "https://rich-content-8-9-0.surge.sh/#!!",
         "opensource": {
@@ -997,5 +1017,33 @@
             ]
         },
         "tags": "wix,rich,content,ricos,block,editor,content"
+    },
+    {
+        "path": "wondershare.com/mockitt",
+        "serviceUrl": "https://mockitt.wondershare.com/",
+        "thumbnailUrl": "https://images.wondershare.com/mockitt/wondershare-mockitt-brand.jpg",
+        "editorUrl": "https://mockittapp.wondershare.com/",
+        "title": "[OFFICIAL] A Free Online Design and Prototyping Tool - Wondershare Mockitt",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Wondershare Mockitt offers rapid design and prototyping with intuitive features, allowing designers to collaborate effectively and do what they do best."
+            ]
+        },
+        "tags": "design, prototype, design tool, prototyping tool"
+    },
+    {
+        "path": "xelf.io/xelf",
+        "serviceUrl": "https://xelf.io/",
+        "thumbnailUrl": "https://cdn.xelf.io/resources/xelf.io/v2/web/images/start-notebook.png",
+        "editorUrl": "https://xelf.io/editPage",
+        "title": "XELF",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "쉽고 빠른 콘텐츠 저작도구"
+            ]
+        },
+        "tags": "xelf, 쉽고, 빠른, 컨텐츠, 저작도구 , design, tool"
     }
 ]

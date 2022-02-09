@@ -1,0 +1,14 @@
+{
+    "path": "xelf.io/xelf",
+    "serviceUrl": "https://xelf.io/",
+    "thumbnailUrl": "https://cdn.xelf.io/resources/xelf.io/v2/web/images/start-notebook.png",
+    "editorUrl": "https://xelf.io/editPage",
+    "title": "XELF",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "쉽고 빠른 콘텐츠 저작도구"
+        ]
+    },
+    "tags": "xelf, 쉽고, 빠른, 컨텐츠, 저작도구 , design, tool"
+}
