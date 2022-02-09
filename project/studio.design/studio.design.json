@@ -1,0 +1,14 @@
+{
+    "path": "studio.design/studio.design",
+    "serviceUrl": "https://studio.design/",
+    "thumbnailUrl": "https://storage.googleapis.com/production-os-assets/assets/46b38a49-f316-4fd9-b13a-9001b1b3d4fb",
+    "title": "STUDIO | Web Design Platform for All Creatives.",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Turn your ideas to live web experiences, in one place with your team.",
+            "STUDIO is Web Design Platform for all creatives to create fully responsive and original websites with no code. "
+        ]
+    },
+    "tags": "studio, design, css, html, web, js, responsive, website, nocode, platform, team"
+}

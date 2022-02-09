@@ -1,0 +1,16 @@
+{
+    "path": "vecteezy.com/vecteezy",
+    "serviceUrl": "https://www.vecteezy.com/",
+    "thumbnailUrl": "https://uploads-ssl.webflow.com/60ff0a25e3004400049dc542/61254170a0f0b4766755508a_main-thumbnail.png",
+    "editorUrl": "https://www.vecteezy.com/editor",
+    "title": "Vecteezy Free SVG Vector Editor",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Try our new FREE SVG editor!",
+            "Designed to allow anyone to customize Vecteezy content before they download it, ",
+            "or create beautiful vector designs from scratch directly in your browser."
+        ]
+    },
+    "tags": "vecteezy,free,svg,vector,editor,design,scratch,directly"
+}

@@ -1,0 +1,14 @@
+{
+    "path": "svgator.com/svgator",
+    "serviceUrl": "https://svgator.com/",
+    "thumbnailUrl": "https://cdn.svgator.com/assets/og-images/main-page-og.png",
+    "title": "SVGator: Free SVG Animation Creator Online - No Coding",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "It's SVG animation made easy - Create impressive SVG animations online, without any coding skills.",
+            "Add them easily to your website. Get started for free!"
+        ]
+    },
+    "tags": "svgator,svg,animation,timeline,nocode,design"
+}

@@ -1,0 +1,14 @@
+{
+    "path": "gra.dient.art/gra.dient.art",
+    "serviceUrl": "https://gra.dient.art/",
+    "thumbnailUrl": "https://gra.dient.art/_next/image?url=%2Ffavicon.png&w=96&q=75",
+    "editorUrl": "https://gra.dient.art/editor.jpg",
+    "title": "GradientArt - Advanced CSS Gradient Editor",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Advanced CSS Gradient Editor with layers, editing tools and free cloud storage"
+        ]
+    },
+    "tags": "css,gradient,layer,art,editor,cloud,storage"
+}

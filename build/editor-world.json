@@ -104,6 +104,37 @@
         "tags": "canva,design,editor"
     },
     {
+        "path": "curvenote.com/curvenote",
+        "serviceUrl": "https://curvenote.com/",
+        "thumbnailUrl": "https://uploads-ssl.webflow.com/60ff0a25e3004400049dc542/61254170a0f0b4766755508a_main-thumbnail.png",
+        "editorUrl": "https://curvenote.com/for/writing",
+        "title": "Curvenote | Writing platform for science",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "A beautiful writing tool designed for technical writing, connected to Jupyter.",
+                "Write, share and communicate interactive scientific content in a collaborative environment."
+            ]
+        },
+        "tags": "curvenote,science,writing,platform,technical,jupyter,share,communicate,interactive,collaborative"
+    },
+    {
+        "path": "dnd-editor/dnd-editor",
+        "serviceUrl": "https://dnd-editor.vercel.app/",
+        "opensource": {
+            "url": "https://github.com/harryy2510/dnd-editor",
+            "license": "None(?)"
+        },
+        "title": "dnd-editor",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Dnd-Editor"
+            ]
+        },
+        "tags": "dnd,form,editor,react,opensource"
+    },
+    {
         "path": "dribbble.com/Frontegg-editor",
         "serviceUrl": "https://dribbble.com/shots/13912307-Frontegg-editor",
         "editorUrl": "https://dribbble.com/shots/13912307-Frontegg-editor",
@@ -130,6 +161,20 @@
         "design": true
     },
     {
+        "path": "gra.dient.art/gra.dient.art",
+        "serviceUrl": "https://gra.dient.art/",
+        "thumbnailUrl": "https://gra.dient.art/_next/image?url=%2Ffavicon.png&w=96&q=75",
+        "editorUrl": "https://gra.dient.art/editor.jpg",
+        "title": "GradientArt - Advanced CSS Gradient Editor",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Advanced CSS Gradient Editor with layers, editing tools and free cloud storage"
+            ]
+        },
+        "tags": "css,gradient,layer,art,editor,cloud,storage"
+    },
+    {
         "path": "magicpattern.design/magicpattern",
         "serviceUrl": "https://www.magicpattern.design/",
         "editorUrl": "https://www.magicpattern.design/dashboard/editor",
@@ -142,6 +187,21 @@
             ]
         },
         "loginType": "google,email"
+    },
+    {
+        "path": "makestories.io/makestories",
+        "serviceUrl": "https://makestories.io/",
+        "editorUrl": "https://editor.makestories.io/",
+        "thumbnailUrl": "http://www.mangoboard.net/og_img.jpg",
+        "title": "Best Free Google Web Stories Builder And Creator",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Create your best Google web stories online with our amp web story creator and builder.",
+                "MakeStories helps to build engaging Google Stories, faster. Without coding."
+            ]
+        },
+        "tags": "makestories,google,web,stories,online,amp,create,builder,nocode"
     },
     {
         "path": "mangoboard.net/mangoboard",
@@ -365,6 +425,21 @@
         "tags": "web,design"
     },
     {
+        "path": "report-designer/report-designer",
+        "serviceUrl": "https://xinglie.github.io/report-designer/",
+        "opensource": {
+            "url": "https://github.com/xinglie/report-designer",
+            "licenseUrl": "https://github.com/xinglie/report-designer/blob/master/LICENSE",
+            "license": "GNU GENERAL PUBLIC LICENSE Version 3"
+        },
+        "title": "report-designer",
+        "description": {
+            "contentType": "text",
+            "content": []
+        },
+        "tags": "element, image ,text,visiual,editor,opensource"
+    },
+    {
         "path": "sketch.io/sketch",
         "serviceUrl": "https://sketch.io/",
         "thumbnailUrl": "https://sketch.io/media/slideshow/sketchpad-desktop-flowers--914x600px@2x.webp",
@@ -416,6 +491,20 @@
         "tags": "hmi,data,flow,diagram,"
     },
     {
+        "path": "studio.design/studio.design",
+        "serviceUrl": "https://studio.design/",
+        "thumbnailUrl": "https://storage.googleapis.com/production-os-assets/assets/46b38a49-f316-4fd9-b13a-9001b1b3d4fb",
+        "title": "STUDIO | Web Design Platform for All Creatives.",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Turn your ideas to live web experiences, in one place with your team.",
+                "STUDIO is Web Design Platform for all creatives to create fully responsive and original websites with no code. "
+            ]
+        },
+        "tags": "studio, design, css, html, web, js, responsive, website, nocode, platform, team"
+    },
+    {
         "path": "summernote.org/summernote",
         "serviceUrl": "https://summernote.org/",
         "opensource": {
@@ -435,6 +524,41 @@
         "tags": "summernote,WYSIWYG,editor,bootstrap,jquery"
     },
     {
+        "path": "svg-quick-editor/svg-quick-editor",
+        "serviceUrl": "https://svg-quick-editor.surge.sh/",
+        "opensource": {
+            "url": "https://github.com/aykutkardas/svg-quick-editor",
+            "licenseUrl": "https://github.com/aykutkardas/svg-quick-editor/blob/main/LICENSE",
+            "license": "MIT License",
+            "copyright": "Copyright (c) 2021 Aykut Kardaş"
+        },
+        "title": "svg-quick-editor",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "SVG Quick Editor is a free and open-source SVG editing tool.",
+                "It offers features such as editing SVG colors, viewing or deleting their paths.",
+                "Files don't have upload and download times, you don't wait processing times.",
+                "Everything happens instantly."
+            ]
+        },
+        "tags": "opensource, svg, quick, editor, color, path"
+    },
+    {
+        "path": "svgator.com/svgator",
+        "serviceUrl": "https://svgator.com/",
+        "thumbnailUrl": "https://cdn.svgator.com/assets/og-images/main-page-og.png",
+        "title": "SVGator: Free SVG Animation Creator Online - No Coding",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "It's SVG animation made easy - Create impressive SVG animations online, without any coding skills.",
+                "Add them easily to your website. Get started for free!"
+            ]
+        },
+        "tags": "svgator,svg,animation,timeline,nocode,design"
+    },
+    {
         "path": "updrafts.app/updrafts",
         "serviceUrl": "https://updrafts.app/",
         "thumbnailUrl": "https://updrafts.app/social-image.png",
@@ -447,6 +571,42 @@
             ]
         },
         "tags": "browser, development, webdevelopment, webdesign, tailwind css, nocode, prototype, mockups"
+    },
+    {
+        "path": "utopia.app/utopia",
+        "serviceUrl": "https://utopia.app/",
+        "editorUrl": "https://utopia.app/p/36ae27be-welcome-to-utopia/",
+        "opensource": {
+            "url": "https://github.com/concrete-utopia/utopia",
+            "licenseUrl": "https://github.com/concrete-utopia/utopia/blob/master/LICENSE",
+            "license": "MIT License",
+            "copyright": "Copyright (c) 2020 Momentumworks, Inc"
+        },
+        "thumbnailUrl": "https://utopia.app/og-card.png",
+        "title": "Utopia: Design and Code on one platform",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Utopia is a production-grade online coding and design tool for React that reads and writes code you’ll want to commit."
+            ]
+        },
+        "tags": "utopia,design,code,one,platform,online,coding,tool,react"
+    },
+    {
+        "path": "vecteezy.com/vecteezy",
+        "serviceUrl": "https://www.vecteezy.com/",
+        "thumbnailUrl": "https://uploads-ssl.webflow.com/60ff0a25e3004400049dc542/61254170a0f0b4766755508a_main-thumbnail.png",
+        "editorUrl": "https://www.vecteezy.com/editor",
+        "title": "Vecteezy Free SVG Vector Editor",
+        "description": {
+            "contentType": "text",
+            "content": [
+                "Try our new FREE SVG editor!",
+                "Designed to allow anyone to customize Vecteezy content before they download it, ",
+                "or create beautiful vector designs from scratch directly in your browser."
+            ]
+        },
+        "tags": "vecteezy,free,svg,vector,editor,design,scratch,directly"
     },
     {
         "path": "vev.design/vev",

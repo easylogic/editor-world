@@ -1,0 +1,16 @@
+{
+    "path": "dnd-editor/dnd-editor",
+    "serviceUrl": "https://dnd-editor.vercel.app/",
+    "opensource": {
+        "url": "https://github.com/harryy2510/dnd-editor",
+        "license": "None(?)"
+    },
+    "title": "dnd-editor",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Dnd-Editor"
+        ]
+    },
+    "tags": "dnd,form,editor,react,opensource"
+}

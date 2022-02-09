@@ -1,0 +1,16 @@
+{
+    "path": "report-designer/report-designer",
+    "serviceUrl": "https://xinglie.github.io/report-designer/",
+    "opensource": {
+        "url": "https://github.com/xinglie/report-designer",
+        "licenseUrl": "https://github.com/xinglie/report-designer/blob/master/LICENSE",
+        "license": "GNU GENERAL PUBLIC LICENSE Version 3"
+    },
+    "title": "report-designer",
+    "description": {
+        "contentType": "text", 
+        "content": [
+        ]
+    },
+    "tags": "element, image ,text,visiual,editor,opensource"
+}

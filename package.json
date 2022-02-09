@@ -4,6 +4,7 @@
   "description": "awesome editors and skills",
   "main": "index.js",
   "scripts": {
+    "build": "npm run collect-json",
     "collect-json": "node system/collect-json.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

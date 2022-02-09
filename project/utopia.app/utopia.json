@@ -1,0 +1,20 @@
+{
+    "path": "utopia.app/utopia",
+    "serviceUrl": "https://utopia.app/",
+    "editorUrl": "https://utopia.app/p/36ae27be-welcome-to-utopia/",
+    "opensource": {
+        "url": "https://github.com/concrete-utopia/utopia",
+        "licenseUrl": "https://github.com/concrete-utopia/utopia/blob/master/LICENSE",
+        "license": "MIT License",
+        "copyright": "Copyright (c) 2020 Momentumworks, Inc"
+    },
+    "thumbnailUrl": "https://utopia.app/og-card.png",
+    "title": "Utopia: Design and Code on one platform",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Utopia is a production-grade online coding and design tool for React that reads and writes code you’ll want to commit."
+        ]
+    },
+    "tags": "utopia,design,code,one,platform,online,coding,tool,react"
+}

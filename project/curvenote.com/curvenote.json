@@ -1,0 +1,15 @@
+{
+    "path": "curvenote.com/curvenote",
+    "serviceUrl": "https://curvenote.com/",
+    "thumbnailUrl": "https://uploads-ssl.webflow.com/60ff0a25e3004400049dc542/61254170a0f0b4766755508a_main-thumbnail.png",
+    "editorUrl": "https://curvenote.com/for/writing",
+    "title": "Curvenote | Writing platform for science",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "A beautiful writing tool designed for technical writing, connected to Jupyter.",
+            "Write, share and communicate interactive scientific content in a collaborative environment."
+        ]
+    },
+    "tags": "curvenote,science,writing,platform,technical,jupyter,share,communicate,interactive,collaborative"
+}

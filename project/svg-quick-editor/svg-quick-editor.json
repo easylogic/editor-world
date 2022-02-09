@@ -1,0 +1,21 @@
+{
+    "path": "svg-quick-editor/svg-quick-editor",
+    "serviceUrl": "https://svg-quick-editor.surge.sh/",
+    "opensource": {
+        "url": "https://github.com/aykutkardas/svg-quick-editor",
+        "licenseUrl": "https://github.com/aykutkardas/svg-quick-editor/blob/main/LICENSE",
+        "license": "MIT License",
+        "copyright": "Copyright (c) 2021 Aykut Kardaş"
+    },
+    "title": "svg-quick-editor",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "SVG Quick Editor is a free and open-source SVG editing tool.",
+            "It offers features such as editing SVG colors, viewing or deleting their paths.",
+            "Files don't have upload and download times, you don't wait processing times.",
+            "Everything happens instantly."
+        ]
+    },
+    "tags": "opensource, svg, quick, editor, color, path"
+}
