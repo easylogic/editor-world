@@ -1,0 +1,16 @@
+{
+    "path": "sprout.place/sprout",
+    "serviceUrl": "https://sprout.place/",
+    "thumbnailUrl": "https://sprout.place/assets/opengraph_v1.1.1.jpg",
+    "editorUrl": "https://sprout.place/space",
+    "title": "Sprout | Your space, your call",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Meet, create & play in customizable spaces.",
+            "Video chat. Take notes. Browse together.",
+            "No login needed."
+        ]
+    },
+    "tags": "sprout,place,meet,create,play,video,chat,notes,browse,together,no,login,needed"
+}

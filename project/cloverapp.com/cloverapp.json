@@ -1,0 +1,14 @@
+{
+    "path": "cloverapp.com/cloverapp",
+    "serviceUrl": "https://cloverapp.com",
+    "thumbnailUrl": "https://cloverapp.com/images/social-banner.png",
+    "editorUrl": "https://app.cloverapp.com/",
+    "title": "Clover – Notes, tasks, whiteboard, and a daily planner in one delightful app.",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "All your work in one delightful app: notes, tasks, whiteboards, and a daily planner."
+        ]
+    },
+    "tags": "cloverapp,notes,tasks,whiteboards,daily,planner"
+}

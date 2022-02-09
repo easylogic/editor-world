@@ -1,0 +1,12 @@
+{
+    "path": "joshwcomeau.com/gradient-generator",
+    "serviceUrl": "https://joshwcomeau.com/gradient-generator/",
+    "title": "CSS Gradient Generator",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Friendly tutorials for developers. Focus on React, CSS, Animation, and more!"
+        ]
+    },
+    "tags": "css,gradient,generator,friendly,tutorials,react,animation"
+}

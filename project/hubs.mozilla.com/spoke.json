@@ -1,0 +1,26 @@
+{
+    "path": "hubs.mozilla.com/spoke",
+    "serviceUrl": "https://hubs.mozilla.com/spoke",
+    "editorUrl": "https://hubs.mozilla.com/spoke/projects",
+    "opensource": {
+        "url": "https://github.com/mozilla/Spoke",
+        "licenseUrl": "https://github.com/mozilla/Spoke/blob/master/LICENSE",
+        "license": ["MIT License", "Mozilla Public License Version 2.0"],
+        "copyright": ["Copyright © 2010-2018 three.js authors", ""]
+    },
+    "thumbnailUrl": "https://assets-prod.reticulum.io/spoke/assets/images/environment-editor-efe992a4a7fc17ceec6af45461f4edf8.jpg",
+    "title": "Spoke by Mozilla - Easily create custom 3D environments",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "🔭 Discover: Explore images, videos, and 3D models from around the web, all without opening up a new tab.",
+            "With media integrations from Sketchfab and Google Poly, you'll be on your way to creating a scene in no time.",
+            "✏️ Create: No external software or 3D modeling experience required ",
+            "- build 3D scenes using the Spoke web editor so you can have a space that's entirely custom to your needs. ",
+            "From a board room to outer space and beyond, your space is in your control.",
+            "🎉 Share: Invite people to meet in your new space by publishing your content to Hubs immediately. ",
+            "With just a few clicks, you'll have a world of your own to experience and share - all from your browser."
+        ]
+    },
+    "tags": "spoke,mozilla,easily,create,custom,3d"
+}

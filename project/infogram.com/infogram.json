@@ -1,0 +1,16 @@
+{
+    "path": "infogram.com/infogram",
+    "serviceUrl": "https://infogram.com/",
+    "thumbnailUrl": "https://cdn.jifo.co/i/frontpage/infogram_share_v3.jpg",
+    "editorUrl": "https://infogram.com/templates#infographics",
+    "title": "Create Infographics, Reports and Maps - Infogram",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Infogram is an easy to use infographic and chart maker.",
+            "Create and share beautiful infographics, online reports, and interactive maps. ",
+            "Make your own here."
+        ]
+    },
+    "tags": "infographic, infographics, maker, graphics, visualize, chart, online, infogram, infogr.am"
+}

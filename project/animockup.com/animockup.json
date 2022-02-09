@@ -1,0 +1,14 @@
+{
+    "path": "animockup.com/animockup",
+    "serviceUrl": "https://animockup.com/",
+    "thumbnailUrl": "https://animockup.com/meta-image.png",
+    "title": "Animockup - Create product teasers with animated mockups",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Create your free animated product teaser with Animockup.",
+            "Make videos and animated GIFs for social media, landing pages, Dribbble, Product Hunt, and more."
+        ]
+    },
+    "tags": "animockup,product,teaser,animated,mockup,video,gif"
+}

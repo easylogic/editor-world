@@ -1,0 +1,14 @@
+{
+    "path": "moonbridge.app/moonbridge",
+    "serviceUrl": "https://moonbridge.app/",
+    "thumbnailUrl": "https://moonbridge.app/share.jpg",
+    "editorUrl": "https://moonbridge.app/projects",
+    "title": "Moonbridge | Explore WebGL. Unleash creativity.",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Moonbridge is a design tool for creating beautiful WebGL transitions."
+        ]
+    },
+    "tags": "moonbridge,webgl,creativity,design,tool,transitions"
+}

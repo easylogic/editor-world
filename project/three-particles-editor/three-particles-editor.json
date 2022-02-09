@@ -1,0 +1,19 @@
+{
+    "path": "NewKrok/three-particles-editor",
+    "serviceUrl": "https://newkrok.com/three-particles-editor/index.html",
+    "opensource": {
+        "url": "https://github.com/NewKrok/three-particles-editor",
+        "licenseUrl": "empty",
+        "license": "empty",
+        "copyright": "empty"
+    },
+    "thumbnailUrl": "https://user-images.githubusercontent.com/13141660/152899412-0baf3391-6142-4ead-a43c-7b24514a35a8.png",
+    "title": "THREE Particles Editor",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Particle system editor for ThreeJS in style of Unity"
+        ]
+    },
+    "tags": "threejs, particle system, editor, webgl"
+}

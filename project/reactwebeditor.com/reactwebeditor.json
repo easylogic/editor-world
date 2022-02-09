@@ -1,0 +1,14 @@
+{
+    "path": "reactwebeditor.com/reactwebeditor",
+    "serviceUrl": "https://www.reactwebeditor.com/",
+    "thumbnailUrl": "https://www.reactwebeditor.com/_next/image?url=%2F_next%2Fstatic%2Fimage%2Fpublic%2FeasyToUse.9646bd58b6541ded79da5ca5d354a559.png&w=1080&q=75",
+    "editorUrl": "https://www.reactwebeditor.com/",
+    "title": "react-web-editor",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "react-web-editor is a simple WYSIWYG editor. You can edit component easy just using mouse click"
+        ]
+    },
+    "tags": "react,web,editor,simple,WYSIWYG,mouse,click"
+}

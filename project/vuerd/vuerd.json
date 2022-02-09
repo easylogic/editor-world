@@ -1,0 +1,19 @@
+{
+    "path": "vuerd/vuerd",
+    "serviceUrl": "https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode",
+    "opensource": {
+        "url": "https://github.com/vuerd/vuerd",
+        "licenseUrl": "https://github.com/vuerd/vuerd/blob/master/LICENSE",
+        "license": "MIT License",
+        "copyright": "Copyright (c) 2020 dineug <SeungHwan-Lee>"
+    },
+    "thumbnailUrl": "https://raw.githubusercontent.com/vuerd/vuerd/master/img/vuerd-erd.gif",
+    "title": "vuerd",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Entity-Relationship Diagram Editor"
+        ]
+    },
+    "tags": "vuerd,erd,entity,relationship,diagram,editor"
+}

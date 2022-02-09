@@ -1,0 +1,15 @@
+{
+    "path": "onlyoffice.com/onlyoffice",
+    "serviceUrl": "https://onlyoffice.com/",
+    "thumbnailUrl": "https://download.onlyoffice.com/assets/fb/fb_icon_325x325.jpg",
+    "editorUrl": "https://www.onlyoffice.com/document-editor.aspx",
+    "title": "ONLYOFFICE - Online Office for business | ONLYOFFICE",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "ONLYOFFICE offers a secure online office suite highly compatible with MS Office formats.",
+            "Connect it to your web platform for document editing and collaboration or use as a part of ONLYOFFICE Workspace."
+        ]
+    },
+    "tags": "onlyoffice,online,office,document,collaboration,workspace"
+}

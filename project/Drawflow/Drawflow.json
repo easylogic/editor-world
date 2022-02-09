@@ -1,0 +1,20 @@
+{
+    "path": "jerosoler/Drawflow",
+    "serviceUrl": "https://jerosoler.github.io/Drawflow",
+    "opensource": {
+        "url": "https://github.com/jerosoler/Drawflow",
+        "licenseUrl": "https://github.com/jerosoler/Drawflow/blob/master/LICENSE",
+        "license": "MIT License",
+        "copyright": "Copyright (c) 2020 Jero Soler"
+    },
+    "thumbnailUrl": "https://github.com/jerosoler/Drawflow/raw/master/docs/drawflow.gif",
+    "title": "DrawFlow - Simple flow library.",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "Drawflow allows you to create data flows easily and quickly.",
+            "Installing only a javascript library and with four lines of code."
+        ]
+    },
+    "tags": "drawflow,simple,flow,library"
+}

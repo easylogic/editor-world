@@ -1,0 +1,16 @@
+{
+    "path": "monday.com/monday",
+    "serviceUrl": "https://monday.com/",
+    "thumbnailUrl": "https://s3.amazonaws.com/general-assets/monday-1200x628.png",
+    "editorUrl": "https://monday.com/lang/ko/workdocs",
+    "title": "monday workdocs | monday.com",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "The ultimate collaborative canvas to think and work together, ",
+            "connect all aspects of work that update in real-time, ",
+            "and transform ideas into robust workflows."
+        ]
+    },
+    "tags": "monday,workdocs,collaborative,canvas,work,together"
+}

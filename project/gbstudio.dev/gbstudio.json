@@ -1,0 +1,14 @@
+{
+    "path": "gbstudio.dev/gbstudio",
+    "serviceUrl": "https://gbstudio.dev/",
+    "downloadUrl": "https://chrismaltby.itch.io/gb-studio",
+    "thumbnailUrl": "https://www.gbstudio.dev/img/share.png",
+    "title": "GB Studio",
+    "description": {
+        "contentType": "text", 
+        "content": [
+            "A quick and easy to use drag and drop retro game creator for your favourite handheld video game system."
+        ]
+    },
+    "tags": "GB Studio,retro,game,creator,video,game,system,drag,drop"
+}
